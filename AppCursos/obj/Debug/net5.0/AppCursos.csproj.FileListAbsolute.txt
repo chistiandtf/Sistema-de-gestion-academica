@@ -1,0 +1,552 @@
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csprojAssemblyReference.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfoInputs.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfo.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CoreCompileInputs.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.json
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.exe
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.deps.json
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.json
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.dev.json
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ref\AppCursos.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Humanizer.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.Manifest.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.xml
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\scopedcss\bundle\AppCursos.styles.css
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CopyComplete
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\ref\AppCursos.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.genruntimeconfig.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.input.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.output.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorCoreGenerate.cache
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Create.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Delete.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Details.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Edit.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Index.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.Views.pdb
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Create.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Delete.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Details.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Edit.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Index.cshtml.g.cs
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\christian\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.Development.json
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.json
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.exe
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.deps.json
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.json
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.dev.json
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ref\AppCursos.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Castle.Core.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Humanizer.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.Auth.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csprojAssemblyReference.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.GeneratedMSBuildEditorConfig.editorconfig
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfoInputs.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfo.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CoreCompileInputs.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.Manifest.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.xml
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\scopedcss\bundle\AppCursos.styles.css
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.input.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.output.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorCoreGenerate.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Create.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Delete.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Details.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Edit.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Index.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Create.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Delete.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Details.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Edit.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Index.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cache
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cs
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.Views.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CopyComplete
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\ref\AppCursos.dll
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.pdb
+E:\audios inestigacion\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.genruntimeconfig.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\appsettings.json
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.exe
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.deps.json
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.json
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.runtimeconfig.dev.json
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ref\AppCursos.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\AppCursos.Views.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csprojAssemblyReference.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfoInputs.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.AssemblyInfo.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CoreCompileInputs.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorAssemblyInfo.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.Manifest.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\staticwebassets\AppCursos.StaticWebAssets.xml
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\scopedcss\bundle\AppCursos.styles.css
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.input.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.TagHelpers.output.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorCoreGenerate.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Create.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Delete.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Details.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Edit.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Cursoes\Index.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Create.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Delete.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Details.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Edit.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Estudiantes\Index.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.RazorTargetAssemblyInfo.cs
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.Views.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.csproj.CopyComplete
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\ref\AppCursos.dll
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.pdb
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.genruntimeconfig.cache
