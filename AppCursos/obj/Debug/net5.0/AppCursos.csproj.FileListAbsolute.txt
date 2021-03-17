@@ -550,3 +550,4 @@ C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCurs
 C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\ref\AppCursos.dll
 C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.pdb
 C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\obj\Debug\net5.0\AppCursos.genruntimeconfig.cache
+C:\Users\Deltaforce1405\Desktop\api\AppCursos\AppCursos\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

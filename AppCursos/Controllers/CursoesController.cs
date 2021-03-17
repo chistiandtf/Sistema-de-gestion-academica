@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AppCursos.Models;
 using AppCursos.Helper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AppCursos.Controllers
 {
+    
     [Route("Cursos")]
     [ApiController]
     public class CursoesController : ControllerBase

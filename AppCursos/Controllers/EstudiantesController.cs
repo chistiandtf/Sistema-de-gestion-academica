@@ -11,13 +11,14 @@ using Microsoft.AspNetCore;
 using System.Text.Json;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.JsonPatch;
-
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace AppCursos.Controllers
 {
+    
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class EstudiantesController : ControllerBase
     {
         private readonly CursosCTX _context;
